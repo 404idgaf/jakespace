@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/amjakes">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Jakes%20Dev%20Vault%2" alt="Jakes Dev Vault 2" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Jakes%20Dev%20Vault%20II%20" alt="Jakes Dev Vault II" />
   </a>
 </p>
 
